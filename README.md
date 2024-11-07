@@ -1,7 +1,7 @@
 <div align="center">
   <br />
         <a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_18_16.png" alt="UI Showcase">
+      <img src="https://github.com/Tidjani1Bachir/basic-crud/blob/main/public/Screenshot_2024-11-01_00_46_19.png" alt="UI Showcase">
         </a>
   <br />
 
@@ -77,7 +77,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 **the UI Of The Application**
 
 <a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_18_40.png" alt="UI Showcase">
+      <img src="https://github.com/Tidjani1Bachir/basic-crud/blob/main/public/Screenshot_2024-11-01_00_46_34.png" alt="UI Showcase">
 </a>
 
 <br />
@@ -86,7 +86,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 <br />
 
 <a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_18_55.png" alt="UI Showcase">
+      <img src="https://github.com/Tidjani1Bachir/basic-crud/blob/main/public/Screenshot_2024-11-01_00_47_06.png" alt="UI Showcase">
 </a>
 
 <br />
@@ -95,21 +95,21 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 <br />
 
 <a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_19_16.png" alt="UI Showcase">
+      <img src="https://github.com/Tidjani1Bachir/basic-crud/blob/main/public/Screenshot_2024-11-01_00_47_17.png" alt="UI Showcase">
 </a>
 
 <br />
 <br />
 
 <a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_19_29.png" alt="UI Showcase">
+      <img src="https://github.com/Tidjani1Bachir/basic-crud/blob/main/public/Screenshot_2024-11-01_00_47_25.png" alt="UI Showcase">
 </a>
 
 <br />
 <br />
 
 <a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_19_49.png" alt="UI Showcase">
+      <img src="https://github.com/Tidjani1Bachir/basic-crud/blob/main/public/Screenshot_2024-11-01_00_47_35.png" alt="UI Showcase">
 </a>
 
 <br />
@@ -117,25 +117,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 <br />
 <br />
 
-<a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_20_19.png" alt="UI Showcase">
-</a>
 
-<br />
-<br />
-
-<a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_20_32.png" alt="UI Showcase">
-</a>
-
-<br />
-<br />
-<br />
-<br />
-
-<a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_30_39.png" alt="UI Showcase">
-</a>
 
 
 
